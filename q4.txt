@@ -1,0 +1,8 @@
+Improve Web Accessibility :--
+1:-Size and Space for approach and Use: Appropriate size and space is provided for approach,
+ reach, manipulation, and use regardless of user's body size, posture, or mobility.
+
+ 2:-Equitable Use: The design is useful and marketable to people with diverse abilities.
+
+ 3:-Perceptible Information: The design communicates necessary information effectively to 
+ the user, regardless of ambient conditions or the user's sensory abilities.

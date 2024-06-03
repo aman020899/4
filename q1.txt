@@ -1,0 +1,9 @@
+HTML5 features:---
+1:-Vector Graphics--Vector graphics are scalable, easy to create and edit. It also supports interactivity and animation.
+2:- Multimedia-- Audio and Video tags are the two major addition to HTML5. It allows developers to embed a video or audio on their website.
+3:-Sementic Tag--- such as header and footer.With these new tags, there is no longer a need to identify the two elements with a <div> tag. 
+Footer is placed at the end of the web page while Header is placed at the start of the web page.
+3:-Placeholder Attribute--The placeholder attribute specifies a short hint that describes the expected value of an input field/text area. 
+The short hint is displayed in the field before the user enters a value.
+4:-Storage-- In the case of HTML, we can use the browser as the temporary storage whereas, in the case of HTML5, application cache,
+web SQL database, and web storage is used.
